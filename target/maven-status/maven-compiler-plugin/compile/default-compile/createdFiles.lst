@@ -1,0 +1,12 @@
+model/Address_components.class
+model/Bounds.class
+model/Southwest.class
+model/Northeast.class
+Application/WeatherApplication.class
+Controller/WeatherController.class
+model/WeatherPayload.class
+model/Results.class
+util/HttpClient.class
+model/Viewport.class
+model/Geometry.class
+model/Location.class
